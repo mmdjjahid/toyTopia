@@ -22,7 +22,7 @@ const Slider = ({ toys }) => {
   };
 
   return (
-    <div className="w-11/12 mx-auto relative px-4 py-8">
+    <div className="w-11/12 mx-auto relative px-4 py-8 ">
       <Swiper
         spaceBetween={30}
         effect={'fade'} 
@@ -38,7 +38,7 @@ const Slider = ({ toys }) => {
         }}
         navigation={true}
         modules={[Autoplay, Pagination, Navigation, EffectFade]}
-        className="mySwiper h-[600px] w-full rounded-2xl shadow-2xl 
+        className="mySwiper h-[70vh] w-full rounded-2xl shadow-2xl 
         [&_.swiper-button-next]:text-white [&_.swiper-button-next]:opacity-50 hover:[&_.swiper-button-next]:opacity-100 
         [&_.swiper-button-prev]:text-white [&_.swiper-button-prev]:opacity-50 hover:[&_.swiper-button-prev]:opacity-100
         [&_.swiper-pagination-bullet]:bg-white [&_.swiper-pagination-bullet-active]:bg-orange-500"

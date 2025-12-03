@@ -25,7 +25,7 @@ const route = createBrowserRouter([
       },
       {
         path:"/toy/:id",
-        element:<PrivateRoute><ToyDetails></ToyDetails></PrivateRoute>,
+        element:<ToyDetails></ToyDetails>,
         loader: ()=>fetch('/allData.json'),
         errorElement:<NotFund></NotFund>,
         
