@@ -1,0 +1,98 @@
+[
+  {
+    "toyId": 1,
+    "toyName": "Lego Classic Bricks",
+    "sellerName": "Toys R Us Local",
+    "sellerEmail": "contact@toysruslocal.com",
+    "price": 49.99,
+    "rating": 4.7,
+    "availableQuantity": 75,
+    "description": "The Lego Classic Bricks set is a perfect starting point for endless creativity. Packed with vibrant, high-quality Lego pieces, it allows children to explore the fundamentals of design, construction, and problem-solving through play. From colorful houses and imaginative vehicles to abstract creations, the possibilities are limitless. Every brick connects with precision, ensuring a frustration-free building experience for little hands. Parents love how it encourages patience, concentration, and spatial awareness. Suitable for both beginners and experienced builders, this set promises hours of open-ended fun and creative expression. A must-have toy for every growing mind who loves to build and invent.",
+    "pictureURL": "https://i.postimg.cc/FKV1sK1R/Lego-Classic-Bricks.jpg",
+    "subCategory": "Building Blocks"
+  },
+  {
+    "toyId": 2,
+    "toyName": "Doll Set",
+    "sellerName": "Happy Toys Corner",
+    "sellerEmail": "sales@happytoys.com",
+    "price": 89.99,
+    "rating": 4.6,
+    "availableQuantity": 40,
+    "description": "This beautifully crafted Doll Set brings imagination to life with stunning detail and quality. Each doll is designed with realistic facial features, soft hair for styling, and flexible joints for lifelike posing. The set includes multiple outfits, accessories, and miniature furniture, encouraging storytelling and social play. Children can act out everyday scenarios or invent new adventures with their dolls, boosting creativity and emotional development. Made from safe, non-toxic materials, every piece is durable and child-friendly. Whether it’s a tea party, a fashion show, or a rescue mission, this set transforms playtime into a world of wonder. A perfect gift for young dreamers and collectors alike.",
+    "pictureURL": "https://i.postimg.cc/HxWnJC7V/Doll-Set.jpg",
+    "subCategory": "Dolls & Figures"
+  },
+  {
+    "toyId": 3,
+    "toyName": "Remote Control Monster Truck",
+    "sellerName": "ZoomKids Toy Hub",
+    "sellerEmail": "zoomkids@toysmail.com",
+    "price": 59.99,
+    "rating": 4.8,
+    "availableQuantity": 60,
+    "description": "The Remote Control Monster Truck is built for adrenaline and excitement, combining speed, durability, and precision control. It’s equipped with a powerful motor, all-terrain suspension, and large rubber tires that conquer rough surfaces with ease. Kids can perform flips, jumps, and sharp turns without losing balance, thanks to its shock-resistant frame. The easy-to-grip remote allows seamless navigation, offering full control for thrilling races indoors or outdoors. Designed to withstand bumps and collisions, it ensures long-lasting fun for every adventure seeker. Whether racing across grass, gravel, or pavement, this truck delivers unstoppable energy and non-stop entertainment. The perfect gift for young racing enthusiasts who crave action and performance.",
+    "pictureURL": "https://i.postimg.cc/yNyWYNWH/Remote-Control-Monster-Truck.jpg",
+    "subCategory": "Vehicles & RC Toys"
+  },
+  {
+    "toyId": 4,
+    "toyName": "Wooden Train Set",
+    "sellerName": "Classic Toy Makers",
+    "sellerEmail": "info@classictoys.com",
+    "price": 34.99,
+    "rating": 4.5,
+    "availableQuantity": 90,
+    "description": "Bring timeless play into your child’s world with this beautifully handcrafted Wooden Train Set. Made from smooth, eco-friendly wood, it features a network of tracks, colorful engines, carriages, bridges, and scenic trees. Each piece fits together perfectly, encouraging kids to plan and construct their own railway systems. The tactile experience of connecting and moving the trains enhances fine motor skills and logical thinking. With its classic design, this toy not only inspires creativity but also introduces children to cause-and-effect concepts through play. Safe, sturdy, and sustainable — it’s a nostalgic favorite that sparks imagination for generations. Ideal for both independent and group play.",
+    "pictureURL": "https://i.postimg.cc/HL9jsLnf/Wooden-Train-Set.jpg",
+    "subCategory": "Educational Toys"
+  },
+  {
+    "toyId": 5,
+    "toyName": "Stuffed Teddy Bear",
+    "sellerName": "Cuddle World",
+    "sellerEmail": "support@cuddleworld.com",
+    "price": 24.99,
+    "rating": 4.9,
+    "availableQuantity": 150,
+    "description": "The Stuffed Teddy Bear is the perfect blend of comfort, softness, and charm. Made from premium-quality plush fabric and filled with fluffy, hypoallergenic stuffing, this teddy bear feels incredibly cozy to hug. Its gentle smile and warm expression make it an instant companion for kids of all ages. Whether used as a bedtime buddy, a comforting presence during travel, or a decorative piece in a child’s room, it radiates warmth and affection. Built with child-safe stitching and durable materials, it’s made to last through countless cuddles. This teddy isn’t just a toy — it’s a friend that listens, comforts, and stays by your side forever.",
+    "pictureURL": "https://i.postimg.cc/cJSrS310/Stuffed-Teddy-Bear.jpg",
+    "subCategory": "Stuffed Toys"
+  },
+  {
+    "toyId": 6,
+    "toyName": "Kids Doctor Play Set",
+    "sellerName": "Little Heroes Shop",
+    "sellerEmail": "contact@littleheroes.com",
+    "price": 39.99,
+    "rating": 4.4,
+    "availableQuantity": 55,
+    "description": "The Kids Doctor Play Set transforms playtime into a fun learning experience. Packed with realistic medical tools like a stethoscope, thermometer, syringe, and otoscope, it lets children explore the fascinating world of healthcare. Each instrument is crafted from non-toxic, durable plastic that’s safe for small hands. By pretending to care for their toys or friends, children develop empathy, communication skills, and confidence. It’s a fantastic way to encourage curiosity about science and medicine while promoting role-play and imagination. Parents love how it blends entertainment with education, helping kids overcome the fear of doctor visits. A complete set for every aspiring little doctor who loves to help others.",
+    "pictureURL": "https://i.postimg.cc/QMJVxMCv/Kids-Doctor-Play-Set.webp",
+    "subCategory": "Role Play Sets"
+  },
+  {
+    "toyId": 7,
+    "toyName": "Fisher-Price Rock-a-Stack",
+    "sellerName": "Baby Boutique",
+    "sellerEmail": "service@babyboutique.com",
+    "price": 8.99,
+    "rating": 4.8,
+    "availableQuantity": 150,
+    "description": "The Fisher-Price Rock-a-Stack toy is classic, colorful fun for your little one! This timeless toy features a wobbly rocker base and 5 colorful rings for little hands to grasp and stack. Stacking helps baby develop hand-eye coordination and introduces them to the concept of relative size as they learn to sort and stack from biggest to smallest. Younger babies will love grasping, holding, shaking, and exploring the five colorful rings. The top ring has a shiny, reflective surface for baby to discover inside—with colorful, swirling beads that make fun rattle sounds to stimulate auditory senses! The bat-at rocker base wobbles back and forth, encouraging the baby to sit up and reach, strengthening their core muscles. Made from durable, baby-safe materials, this toy is easy to clean and designed to withstand the rigors of toddler play. It is an essential developmental toy for infants aged 6 months and older.",
+    "pictureURL": "https://i.postimg.cc/QrT6v4/Fisher-Price-Stack.jpg",
+    "subCategory": "Baby & Toddler"
+  },
+  {
+    "toyId": 8,
+    "toyName": "Magna-Tiles 32-Piece Clear Colors Set",
+    "sellerName": "EduPlay Store",
+    "sellerEmail": "contact@eduplaystore.com",
+    "price": 49.99,
+    "rating": 4.9,
+    "availableQuantity": 60,
+    "description": "Magna-Tiles are the original 3D magnetic building tiles by Valtech, sparking creativity since 1997. This 32-piece set features translucent, colorful shapes including squares (large and small) and triangles (equilateral, right, and isosceles). Each tile edge is magnetized with strong ceramic magnets, allowing kids to connect them to build anything they can imagine, from flat 2D mosaics to towering 3D castles, rockets, and animals. The tiles are made from food-grade ABS plastic that is free of BPA, phthalates, and latex, ensuring safety and durability. The sonic-welded construction prevents the tiles from breaking, keeping the magnets safely enclosed. Not only are Magna-Tiles incredibly fun, but they also help develop critical STEM skills such as spatial awareness, math, logic, and problem-solving. Compatible with all other Magna-Tiles sets, this 32-piece pack is the perfect starter set or expansion to an existing collection.",
+    "pictureURL": "https://i.postimg.cc/WtY5u7/Magna-Tiles-32.jpg",
+    "subCategory": "Building Blocks"
+  }
+]
